@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "apex designs",
+			"path": "../../../moses abiodun apex jobs/apex jobs/apex designs"
+		},
+		{
+			"name": "moses123",
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "moses123"
+	}
+}
